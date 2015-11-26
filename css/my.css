@@ -1,0 +1,14 @@
+.menu ul, ol {
+    margin-left: 0;
+    list-style: none;
+    font-size: 80px;
+    line-height: 55px;
+}
+
+a:visited {
+    color: #00BCD4;
+}
+a {
+    color: #2196F3;
+    text-decoration: none;
+}
